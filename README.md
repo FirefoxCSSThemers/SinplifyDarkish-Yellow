@@ -1,9 +1,9 @@
-# simplify-darkish-yellow-by-dpcdpc11
-The legendary Simplify Darkish Yellow theme, made by dpcdpc11, a senior themes expert.
+# Simplify Darkish Yellow Firefox Theme
+> The legendary Simplify Darkish Yellow theme, made by dpcdpc11, a senior themes expert.
 
-Author: **dpcdpc11**
-
-Published by: [**Agnihotra Nath**](https://github.com/AlfarexGuy2019).
+### Contributors
+> - Made by [**dpcdpc11**](https://www.deviantart.com/dpcdpc11).
+> - Published by [**Agnihotra Nath**](https://github.com/AlfarexGuy2019).
 
 ### Compatibility
 > This release was tested on the following platforms (only supports Firefox 70+):
@@ -17,7 +17,7 @@ Published by: [**Agnihotra Nath**](https://github.com/AlfarexGuy2019).
 > Copy the files to the `chrome` folder in your Firefox Profile directory. Here are the detailed install steps:
 > 1. Go to `about:support` in Firefox.
 > 2. Search for Application Basics, find Profile Directory and click on Open Directory.
-> 3. Copy the files mentioned above into the Chrome folder in the Profile folder (usually has `-release` at the end).
+> 3. Copy the files mentioned above into the `chrome` folder from the Profile directory (usually has `-release` at the end, and you should create the `chrome` folder if it doesn't already exist).
 > 4. This step is crucial. If you do it wrong, you can brick your Firefox installation.
 >     1. Go to `about:config` in Firefox.
 >     2. Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and set it to `true` by clicking on the arrow button.
